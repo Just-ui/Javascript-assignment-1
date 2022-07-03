@@ -1,0 +1,28 @@
+1. Explain the use of JavaScript ( or What you can do using a JavaScript)
+-JavaScript was intended for web development and client-side programming but is now currently used for many different things such as:
+mobile applications
+backend development
+desktop applications
+API's
+machine learning
+blockchain
+data structure algorithms
+
+
+2. What is the difference between client-side and server-side?
+-client-side refers to the user's computer while the server-side refers to the web server's computer
+
+3. What is Nodejs?
+-Nodejs is a run time environment for JavaScript outside a web browser.
+
+4. Explain Scope in JavaScript
+-A scope is an area to which you can access or reference a variable.
+
+5. JavaScript is asynchronous or synchronous.
+-JavaScript is synchronous.
+
+6. JavaScript is Single-threaded or Multi-threaded.
+-JavaScript is single-threaded meaning only one operation can be processed at a time
+
+7. Explain DOM in your own word.
+-DOM is the representation of the HTML tree. The DOM allows you to traverse and manipulate the HTML tree with the use of JavaScript
